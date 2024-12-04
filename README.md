@@ -42,11 +42,11 @@ This script is perfect for:
    python3 project-boilerplate.py <folder_name>
 ### Result 
 The script will create:
-index.html: Boilerplate HTML file.
-styles.css: Basic stylesheet.
-script.js: JavaScript boilerplate.
+1.index.html: Boilerplate HTML file.
+2.styles.css: Basic stylesheet.
+3.script.js: JavaScript boilerplate.
 
-<folder_name>/
-├── index.html
-├── styles.css
-└── script.js
+<folder_name>/.
+1.├── index.html.
+2.├── styles.css.
+3.└── script.js.
